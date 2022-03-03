@@ -1,3 +1,5 @@
+![STOP PUTIN - STOP WAR](https://github.com/toy/toy/raw/master/STOPWAR.svg)
+
 [![dump](https://img.shields.io/github/workflow/status/toy/dump/check/master?label=dump)](https://github.com/toy/dump/actions/workflows/check.yml)
 [![dump/rubocop](https://img.shields.io/github/workflow/status/toy/dump/rubocop/master?label=dump/rubocop)](https://github.com/toy/dump/actions/workflows/rubocop.yml)
 [![fspath-mac](https://img.shields.io/github/workflow/status/toy/fspath-mac/check/master?label=fspath-mac)](https://github.com/toy/fspath-mac/actions/workflows/check.yml)
