@@ -1,4 +1,4 @@
-![STOP PUTIN - STOP WAR](https://github.com/toy/toy/raw/master/STOPWAR.svg)
+[![HELP UKRAINE WIN THE WAR](https://github.com/toy/toy/raw/master/HELPUKRAINE.svg)](https://war.ukraine.ua/)
 
 [![dump](https://img.shields.io/github/actions/workflow/status/toy/dump/check.yml?label=dump&logo=github)](https://github.com/toy/dump/actions/workflows/check.yml)
 [![dump/rubocop](https://img.shields.io/github/actions/workflow/status/toy/dump/rubocop.yml?label=dump/rubocop&logo=rubocop)](https://github.com/toy/dump/actions/workflows/rubocop.yml)
