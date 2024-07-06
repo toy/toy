@@ -10,7 +10,6 @@
 [![git_dump/rubocop](https://img.shields.io/github/actions/workflow/status/toy/git_dump/rubocop.yml?label=git_dump/rubocop&logo=rubocop)](https://github.com/toy/git_dump/actions/workflows/rubocop.yml)
 [![image_optim](https://img.shields.io/github/actions/workflow/status/toy/image_optim/check.yml?label=image_optim&logo=github)](https://github.com/toy/image_optim/actions/workflows/check.yml)
 [![image_optim/rubocop](https://img.shields.io/github/actions/workflow/status/toy/image_optim/rubocop.yml?label=image_optim/rubocop&logo=rubocop)](https://github.com/toy/image_optim/actions/workflows/rubocop.yml)
-[![image_optim/codeql](https://img.shields.io/github/actions/workflow/status/toy/image_optim/codeql.yml?label=image_optim/codeql&logo=github)](https://github.com/toy/image_optim/actions/workflows/codeql.yml)
 [![image_optim_pack](https://img.shields.io/github/actions/workflow/status/toy/image_optim_pack/check.yml?label=image_optim_pack&logo=github)](https://github.com/toy/image_optim_pack/actions/workflows/check.yml)
 [![image_optim_pack/rubocop](https://img.shields.io/github/actions/workflow/status/toy/image_optim_pack/rubocop.yml?label=image_optim_pack/rubocop&logo=rubocop)](https://github.com/toy/image_optim_pack/actions/workflows/rubocop.yml)
 [![image_optim_pack/livecheck](https://img.shields.io/github/actions/workflow/status/toy/image_optim_pack/livecheck.yml?label=image_optim_pack/livecheck&logo=github)](https://github.com/toy/image_optim_pack/actions/workflows/livecheck.yml)
