@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="768" height="128">
-	<rect width="768" height="64" y="0" style="fill:#0057b7" />
-	<rect width="768" height="64" y="64" style="fill:#ffd700" />
-	<text font-size="64px" font-weight="bold" style="fill:#ffd700" x="8" y="54">HELP UKRAINE</text>
-	<text font-size="64px" font-weight="bold" style="fill:#0057b7" x="8" y="118">WIN THE WAR</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="207.5" viewBox="0 0 512 128">
+	<rect width="512" height="64" y="0" style="fill:#0057b7" />
+	<rect width="512" height="64" y="64" style="fill:#ffd700" />
+	<text font-family="serif" font-size="64" font-weight="bold" style="fill:#ffd700" x="8" y="54">HELP UKRAINE</text>
+	<text font-family="serif" font-size="64" font-weight="bold" style="fill:#0057b7" x="8" y="118">WIN THE WAR</text>
 </svg>
